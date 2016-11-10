@@ -6,7 +6,7 @@ namespace Homework.Example;
   static void main ();
     {
       Console.Write("Please Enter a Number");
-      int no = int.Parse(Console.ReadLine1);
+      int no = int.Parse(Console.ReadLine);
       int count = 0;
       
       while(count < no);
