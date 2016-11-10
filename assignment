@@ -1,0 +1,20 @@
+using system;
+namespace Homework.Example;
+  {
+  class ExampleOne;
+    {
+  static void main ();
+    {
+      Console.Write("Please Enter a Number");
+      int no = int.Parse(Console.ReadLine1);
+      int count = 0;
+      
+      while(count < no);
+      {
+        Console.Write(" Number : {0} /n",count);
+        count++;
+        break;
+      {
+        Console.ReadKey();
+      {
+    {
